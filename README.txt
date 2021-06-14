@@ -2,6 +2,9 @@ Pentago
 Min-Max adversarial AI for Pentago game
 Video on how to play pentago: https://www.youtube.com/watch?v=4kipCMwmUso
 
+Small difference in my version is the a rotation is REQUIRED in each move, however
+a game-ending placement BEFORE a rotation will result in the rotation not happening.
+
 ****************************************************
 Pentago.py is the main execution file
 ****************************************************
